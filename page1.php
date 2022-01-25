@@ -3,7 +3,7 @@
                <title>งานที่1</title>
         </head>
         <body bgcolor="lightbule">
-                <h1> ประวัติส่วนตัว</h>
+                <h1> ประวัติส่วนตัว</h1>
                 <br>
                 <br>ชื่อ: </b> <i> ทยิดา เทพคะ</i>
                 <br>
