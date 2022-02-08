@@ -15,9 +15,9 @@
          <td>1</td>
          <td>ช็อน จ็อง-กุก </td>
          <td>จองกุก</td>
-         <td><img scr="https://pbs.twimg.com/media/EHVTcalUUAA8HE1.jpg" width="130px"></td>
-         <td><a href="https://twitter.com/kookpiics">twitter</a></td>  
-      </tr>
+         <td><img src="https://pbs.twimg.com/media/EHVTcalUUAA8HE1.jpg" width="130px"></td>
+         <td><a href="https://twitter.com/kookpiics">twitter</a></td> 
+        </tr>
      </table>
    </body
 </html>
