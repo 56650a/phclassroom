@@ -22,7 +22,7 @@
         <td>2</td>
         <td>คิม แท-ฮย็อง </td>
         <td>วี</td>
-        <td><img src="https://kpopnews.atsit.in/th/wp-content/uploads/2021/11/e0b894e0b8b9e0b884e0b8a7e0b8b2e0b8a1e0b8a3e0b8b1e0b881e0b882e0b8ade0b887-bts-v-e0b897e0b8b5e0b988e0b896e0b988e0b8b2e0b8a2e0b897e0b8ad.jpg" width="130px"></td>
+        <td><img src="https://i.pinimg.com/originals/27/4e/d7/274ed724e1c74c709b8e7c4c6689b6d7.jpg" width="130px"></td>
         <td><a href="https://twitter.com/taehyungpic">twitter</a></td> 
       </tr>
       <tr>
