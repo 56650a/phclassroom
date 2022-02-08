@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>ตารางของฉัน< /title>
+    <title>ตารางของฉัน</title>
   </head>
   <body>
     <table border="1">
