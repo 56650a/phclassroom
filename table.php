@@ -29,7 +29,7 @@
         <td>3</td>
         <td>วชิรวิชญ์ ชีวอารี</td> 
         <td>ไบร์ท</td>
-        <td><img src="https://cdn.readawrite.com/publicassets/3720751/images/350AEC28-712F-4063-927E-D795DC073F08.jpeg" width="130px"></td>
+        <td><img src="https://s.isanook.com/jo/0/rp/r/w728/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2pvLzAvdWQvNDgzLzI0MTg1MzMvYjIuanBn.jpg" width="130px"></td>
         <td><a href="https://twitter.com/bbrightvc?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">twitter</a></td>
       </tr>
       <tr>
