@@ -29,7 +29,7 @@
         <td>3</td>
         <td>วชิรวิชญ์ ชีวอารี</td> 
         <td>ไบร์ท</td>
-        <td><img src="https://www.newtv.co.th/images/content/ct_20200525101810780.jpg" width="130px"></td>
+        <td><img src="https://media.newsplus.co.th/2021/04/2-9.jpg" width="130px"></td>
         <td><a href="https://twitter.com/bbrightvc?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">twitter</a></td>
       </tr>
       <tr>
