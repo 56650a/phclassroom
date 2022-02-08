@@ -29,7 +29,7 @@
         <td>3</td>
         <td>วชิรวิชญ์ ชีวอารี</td> 
         <td>ไบร์ท</td>
-        <td><img src="https://www.gmm-tv.com/cms/upload_file/vj_floating/pic/adda67ee0faafc8a4a9e6f88de9a0e3f.jpg" width="130px"></td>
+        <td><img src="https://img.pptvhd36.com/thumbor/2020/08/07/5a5fa79da6.jpg" width="130px"></td>
         <td><a href="https://twitter.com/bbrightvc?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">twitter</a></td>
       </tr>
       <tr>
