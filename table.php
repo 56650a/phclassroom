@@ -15,7 +15,7 @@
          <td>1</td>
          <td>ช็อน จ็อง-กุก </td>
          <td>จองกุก</td>
-         <td><img src="https://pbs.twimg.com/media/EHVTcalUUAA8HE1.jpg" width="130px"></td>
+         <td><img src="https://entertain.teenee.com/kpop/img1/1716925.jpg" width="130px"></td>
          <td><a href="https://twitter.com/kookpiics">twitter</a></td> 
       </tr>
       <tr>
