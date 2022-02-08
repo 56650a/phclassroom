@@ -36,21 +36,21 @@
         <td>4</td>
         <td>ยศวรรธน์ ทะวาปี </td> 
         <td>ยูโร</td>
-        <td><img src="https://us-fbcloud.net/wb/data/1216/1216363-img.u9ad1h.0.jpg" width="130px"></td>
+        <td><img src="https://www.daradaily.com/module/ckfinder/userfiles/images/Euroyotsawat_180831_0001.jpg" width="130px"></td>
         <td><a href="https://twitter.com/euroyotsawat">twitter</a></td>
       </tr>
       <tr>
         <td>5</td>
         <td> ปภาวดี ชาญสมอน</td> 
         <td>พิ้งค์พลอย</td>
-        <td><img src="https://www.khaosod.co.th/wpapp/uploads/2021/04/S__14516278.jpg" width="130px"></td>
+        <td><img src="https://www.newtv.co.th/images/content/ct_20210409023904514.jpg" width="130px"></td>
         <td><a href="https://twitter.com/PaparwadeePP">twitter</a></td>
       </tr> 
       <tr>
         <td>6</td>
         <td>ดาวิกา โฮร์เน่</td> 
         <td>ใหม่ </td>
-        <td><img src="https://undubzapp.com/wp-content/uploads/2021/10/242742534_578337786645809_4703726039523195712_n.jpg" width="130px"></td>
+        <td><img src="https://www.tnnthailand.com/static/images/5381e595-ad84-4a8d-a165-f010f4a181fb.jpg" width="130px"></td>
         <td><a href="https://twitter.com/DavikaH?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">twitter</a></td>
       </tr>
      </table>
