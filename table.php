@@ -43,7 +43,7 @@
         <td>5</td>
         <td> ปภาวดี ชาญสมอน</td> 
         <td>พิ้งค์พลอย</td>
-        <td><img src="https://www.matichon.co.th/wp-content/uploads/2021/04/S__19791874.jpg" width="130px"></td>
+        <td><img src="https://www.khaosod.co.th/wpapp/uploads/2021/04/S__14516278.jpg" width="130px"></td>
         <td><a href="https://twitter.com/PaparwadeePP">twitter</a></td>
       </tr> 
       <tr>
