@@ -4,7 +4,6 @@
   </head>
   <body>
     <table border="1">
-    <table bor
       <tr>
         <th>ลำดับ</th>
         <th>ชื่อ - นามสกุล</th>
