@@ -5,15 +5,13 @@
 			#box1{
 				width: 800px;
 				height: 350px;
+				color: yellow;
 			}
 			.box{
 				background-color: lightblue;
 			}
 			body{
 				background-color: lightpink;
-			}
-			h1{
-				color: yellow;
 			}
 		</style>
 	</head>
