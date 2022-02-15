@@ -5,6 +5,7 @@
 			#box1{
 				width: 800px;
 				height: 350px;
+				color:yellow;
 			}
 			.box{
 				background-color: lightblue;
@@ -16,7 +17,7 @@
 	</head>
 	<body>
 		<div id="box1" class="box">
-			<h1>นางสาวทยิดา เทพคะ เลขที่ 9 ชั้น ม.4/13</h1>
+			<h1>นางสาวทยิดา เทพคะ เลขที่ 9 ชั้น ม.4/13 </h1>
 		</div>
 	</body>
 </html>
