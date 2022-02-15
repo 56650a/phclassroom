@@ -1,9 +1,22 @@
 <html>
-  <head>
-        <title>การตกเเต่งเว็บไซต์ด้วย CSS</title>
-  </head>
-  <body>
-        <p style="color:green;">ข้อความนี้สีเขียว</p>
-        <p style="color:#82933f;">ข้อความนี้สีเขียวรหัสสี</p>
-  </body
+	<head>
+		<title>การตกแต่งเว็บไซต์ด้วย CSS</title>
+		<style>
+			#box1{
+				width: 800px;
+				height: 350px;
+			}
+			.box{
+				background-color: lightblue;
+			}
+			body{
+				background-color: pink;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="box1" class="box">
+			<h1>นางสาวทยิดา เทพคะ เลขที่ 9 ชั้น ม.4/13</h1>
+		</div>
+	</body>
 </html>
