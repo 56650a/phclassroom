@@ -13,7 +13,7 @@
 				background-color: lightpink;
 			}
 			h1{
-				color: darkyellow;
+				color: yellow;
 			}
 		</style>
 	</head>
