@@ -11,7 +11,7 @@
 				background-color: lightblue;
 			}
 			body{
-				background-color: pink;
+				background-color: lightpink;
 			}
 		</style>
 	</head>
