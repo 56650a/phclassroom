@@ -4,5 +4,6 @@
   </head>
   <body>
         <p style="color:green;">ข้อความนี้สีเขียว</p>
+        <p style="color:#82933f;">ข้อความนี้สีเขียวรหัสสี</p>
   </body
 </html>
