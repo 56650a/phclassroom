@@ -5,7 +5,7 @@
 			#box1{
 				width: 800px;
 				height: 350px;
-				color:yellow;
+				color:lightyellow;
 			}
 			.box{
 				background-color: lightblue;
