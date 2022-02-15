@@ -8,10 +8,10 @@
 				color:yellow;
 			}
 			.box{
-				background-color: blue;
+				background-color: lightblue;
 			}
 			body{
-				background-color: lightpink;
+				background-color: pink;
 			}
 		</style>
 	</head>
