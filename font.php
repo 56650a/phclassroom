@@ -6,11 +6,12 @@
   <style>
     @font-face{
       font-family: myFont1;
-      src: url(
+      src: url(MiPancake.woff)
+
     }
     @font-face{
       font-family: myFont2;
-      src: url(SOV_sorm2496.woff)
+      src: url()
     }
     #font1{
 	font-family: myFont1;    
@@ -18,7 +19,7 @@
   </style>
 </head>
 <body>
-  <h1 id="font1">นายยิ่งคุณ รอดทิม ม.4/14 เลขที่ 1 เลขประจำตัว 88888</h1>
-  <h1 id="font2">นายยิ่งคุณ รอดทิม ม.4/14 เลขที่ 1 เลขประจำตัว 88888</h1>
+  <h1 id="font1">นางสาวทยิดา เทพคะ ม.4/13 เลขที่ 9 เลขประจำตัว 56650</h1>
+  <h1 id="font2">นางสาวทยิดา เทพคะ ม.4/13 เลขที่ 9 เลขประจำตัว 56650</h1>
 </body>
 </html>
