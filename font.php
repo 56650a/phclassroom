@@ -11,7 +11,7 @@
     }
     @font-face{
       font-family: myFont2;
-      src: url(phclassroom/FCFlexica[Non-commercial]-Bold.woff)
+      src: url(FCFlexica[Non-commercial]-Bold.woff)
     }
     #font1{
 	font-family: myFont1;    
