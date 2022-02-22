@@ -16,7 +16,10 @@
     #font1{
 	font-family: myFont1;    
     }
-  </style>
+    #font2{
+	font-family: myFont2;    
+    }
+ </style>
 </head>
 <body>
   <h1 id="font1">นางสาวทยิดา เทพคะ ม.4/13 เลขที่ 9 เลขประจำตัว 56650</h1>
