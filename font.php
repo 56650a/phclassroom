@@ -11,7 +11,7 @@
     }
     @font-face{
       font-family: myFont2;
-      src: url(ChocolateteehaypaiTEST (1).woff)
+      src: url(phclassroom/FCFlexica[Non-commercial]-Bold.woff)
     }
     #font1{
 	font-family: myFont1;    
