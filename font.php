@@ -11,7 +11,7 @@
     }
     @font-face{
       font-family: myFont2;
-      src: url(ChocolateteehaypaiTEST.woff)
+      src: url()
     }
     #font1{
 	font-family: myFont1;    
